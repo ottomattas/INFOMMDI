@@ -1,0 +1,3 @@
+[submodule "Project/Data/analyzing-reddit-sentiment-with-aws"]
+	path = Project/Data/analyzing-reddit-sentiment-with-aws
+	url = https://github.com/ottomattas/analyzing-reddit-sentiment-with-aws
