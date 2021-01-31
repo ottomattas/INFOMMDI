@@ -4,14 +4,11 @@
 # This script helps with getting data from the Pushshift Reddit API
 # See more: https://github.com/pushshift/api
 
-
 # Versioning
 # v0.1 Defining base elements
 
-
 # Import the requests library
 import requests
-
 
 ###############################
 ### Define query parameters ###
