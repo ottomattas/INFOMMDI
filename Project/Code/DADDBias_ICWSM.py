@@ -1,5 +1,4 @@
 import time
-
 import gensim
 import nltk
 import numpy as np
